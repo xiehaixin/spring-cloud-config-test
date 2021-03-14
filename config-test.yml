@@ -1,2 +1,2 @@
 config: 
-	- text=最新的版本为1
+  init: "test 最新的版本为1"
